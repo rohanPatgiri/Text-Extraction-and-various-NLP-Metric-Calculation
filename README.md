@@ -3,7 +3,7 @@
 (Done in collaboration with Ripon Patgiri)
 
 ---
-###EXECUTIVE SUMMARY 
+### EXECUTIVE SUMMARY 
 
 - The objective of the project was to:
 - extract the text from the webpages, whose URLs are stored in a column of a CSV file
