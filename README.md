@@ -6,9 +6,9 @@
 ### EXECUTIVE SUMMARY 
 
 - The objective of the project was to:
-- extract the text from the webpages, whose URLs are stored in a column of a CSV file
+- extract the text from the webpages, whose URLs are stored in a column of a CSV file using Python libraries such as Beautfiul Soup and Selenium
 - store the extracted for each web page into a text file.
-- Then, for each text file,we calculated the following 13 NLP related metric scores:
+- Then, for each text file,we calculated the following 13 NLP related metric scores: (using libraries such as NLTK)
 1.	POSITIVE SCORE
 2.	NEGATIVE SCORE
 3.	POLARITY SCORE
